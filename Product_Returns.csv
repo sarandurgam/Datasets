@@ -1,0 +1,101 @@
+Return_ID,Product_ID,Product,Return_Date,Reason
+1,P005,Headphones,2025-05-19,Customer Error
+2,P001,Laptop,2025-05-12,Customer Error
+3,P002,Tablet,2025-05-30,Late Delivery
+4,P004,Monitor,2025-06-19,Wrong Item
+5,P003,Smartphone,2025-02-24,Customer Error
+6,P005,Headphones,2025-02-27,Defective
+7,P005,Headphones,2025-05-18,Customer Error
+8,P004,Monitor,2025-02-04,Defective
+9,P005,Headphones,2025-02-11,Defective
+10,P004,Monitor,2025-02-28,Defective
+11,P005,Headphones,2025-04-07,Defective
+12,P002,Tablet,2025-03-05,Customer Error
+13,P002,Tablet,2025-01-27,Defective
+14,P004,Monitor,2025-03-31,Customer Error
+15,P002,Tablet,2025-04-24,Defective
+16,P004,Monitor,2025-01-09,Customer Error
+17,P003,Smartphone,2025-02-19,Customer Error
+18,P002,Tablet,2025-01-11,Wrong Item
+19,P002,Tablet,2025-05-24,Wrong Item
+20,P004,Monitor,2025-04-07,Customer Error
+21,P001,Laptop,2025-01-21,Late Delivery
+22,P004,Monitor,2025-02-20,Customer Error
+23,P003,Smartphone,2025-01-24,Wrong Item
+24,P005,Headphones,2025-03-28,Defective
+25,P001,Laptop,2025-04-28,Wrong Item
+26,P004,Monitor,2025-03-22,Wrong Item
+27,P002,Tablet,2025-04-21,Late Delivery
+28,P002,Tablet,2025-02-10,Late Delivery
+29,P003,Smartphone,2025-04-21,Customer Error
+30,P005,Headphones,2025-01-10,Late Delivery
+31,P001,Laptop,2025-05-23,Customer Error
+32,P003,Smartphone,2025-05-07,Late Delivery
+33,P003,Smartphone,2025-06-06,Late Delivery
+34,P002,Tablet,2025-05-27,Late Delivery
+35,P004,Monitor,2025-03-17,Defective
+36,P003,Smartphone,2024-12-29,Defective
+37,P001,Laptop,2025-05-10,Customer Error
+38,P005,Headphones,2025-06-02,Customer Error
+39,P002,Tablet,2025-05-15,Wrong Item
+40,P005,Headphones,2025-02-13,Late Delivery
+41,P002,Tablet,2025-02-28,Customer Error
+42,P004,Monitor,2025-03-15,Wrong Item
+43,P002,Tablet,2025-02-28,Customer Error
+44,P003,Smartphone,2025-01-28,Customer Error
+45,P003,Smartphone,2025-03-07,Customer Error
+46,P002,Tablet,2025-01-01,Wrong Item
+47,P001,Laptop,2025-03-23,Customer Error
+48,P005,Headphones,2025-02-17,Late Delivery
+49,P005,Headphones,2024-12-25,Defective
+50,P005,Headphones,2025-02-13,Late Delivery
+51,P004,Monitor,2025-01-29,Wrong Item
+52,P001,Laptop,2025-01-21,Wrong Item
+53,P005,Headphones,2024-12-28,Customer Error
+54,P003,Smartphone,2025-06-14,Late Delivery
+55,P005,Headphones,2025-01-21,Wrong Item
+56,P003,Smartphone,2025-04-30,Late Delivery
+57,P001,Laptop,2025-05-30,Customer Error
+58,P004,Monitor,2025-06-12,Late Delivery
+59,P003,Smartphone,2025-06-11,Customer Error
+60,P003,Smartphone,2025-04-23,Defective
+61,P004,Monitor,2025-03-22,Defective
+62,P001,Laptop,2025-01-16,Late Delivery
+63,P004,Monitor,2025-04-07,Defective
+64,P004,Monitor,2025-02-10,Late Delivery
+65,P004,Monitor,2025-01-03,Defective
+66,P005,Headphones,2025-03-06,Customer Error
+67,P004,Monitor,2025-01-20,Late Delivery
+68,P004,Monitor,2025-04-29,Late Delivery
+69,P004,Monitor,2025-06-14,Late Delivery
+70,P005,Headphones,2025-04-14,Wrong Item
+71,P004,Monitor,2025-05-26,Wrong Item
+72,P005,Headphones,2025-01-02,Late Delivery
+73,P005,Headphones,2025-05-19,Wrong Item
+74,P002,Tablet,2025-02-02,Late Delivery
+75,P004,Monitor,2025-04-09,Late Delivery
+76,P002,Tablet,2025-05-08,Late Delivery
+77,P003,Smartphone,2025-02-06,Late Delivery
+78,P003,Smartphone,2025-02-08,Customer Error
+79,P005,Headphones,2024-12-28,Late Delivery
+80,P001,Laptop,2025-01-14,Customer Error
+81,P002,Tablet,2025-03-26,Late Delivery
+82,P002,Tablet,2025-03-10,Defective
+83,P005,Headphones,2025-02-04,Customer Error
+84,P005,Headphones,2025-02-11,Defective
+85,P002,Tablet,2025-01-21,Wrong Item
+86,P005,Headphones,2025-04-05,Wrong Item
+87,P002,Tablet,2025-04-19,Late Delivery
+88,P001,Laptop,2025-01-21,Defective
+89,P001,Laptop,2025-01-25,Customer Error
+90,P004,Monitor,2024-12-29,Wrong Item
+91,P001,Laptop,2025-06-21,Customer Error
+92,P002,Tablet,2025-01-06,Customer Error
+93,P003,Smartphone,2025-01-08,Customer Error
+94,P003,Smartphone,2025-03-15,Customer Error
+95,P003,Smartphone,2025-05-14,Late Delivery
+96,P004,Monitor,2025-06-11,Defective
+97,P004,Monitor,2025-05-08,Late Delivery
+98,P004,Monitor,2025-06-21,Late Delivery
+99,P004,Monitor,2024-12-26,Late Delivery
+100,P001,Laptop,2025-01-01,Late Delivery
