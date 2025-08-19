@@ -1,0 +1,67 @@
+[
+  {
+    "Sale_ID": 1,
+    "Product_ID": "P005",
+    "Product": "Headphones",
+    "Region": "East",
+    "Sale_Date": "8/14/2023",
+    "Quantity": 8,
+    "Unit_Price": 1063.69,
+    "Sales_Target": 9097.78,
+    "Employee_ID": "emp08",
+    "Customer_ID": "CUST043",
+    "Total_Sales": 8509.52
+  },
+  {
+    "Sale_ID": 2,
+    "Product_ID": "P003",
+    "Product": "Smartphone",
+    "Region": "North",
+    "Sale_Date": "11/18/2024",
+    "Quantity": 9,
+    "Unit_Price": 500.72,
+    "Sales_Target": 5258.71,
+    "Employee_ID": "emp03",
+    "Customer_ID": "CUST046",
+    "Total_Sales": 4506.48
+  },
+  {
+    "Sale_ID": 3,
+    "Product_ID": "P003",
+    "Product": "Smartphone",
+    "Region": "West",
+    "Sale_Date": "1/23/2024",
+    "Quantity": 7,
+    "Unit_Price": 314.49,
+    "Sales_Target": 2413.81,
+    "Employee_ID": "emp08",
+    "Customer_ID": "CUST064",
+    "Total_Sales": 2201.43
+  },
+  {
+    "Sale_ID": 4,
+    "Product_ID": "P003",
+    "Product": "Smartphone",
+    "Region": "West",
+    "Sale_Date": "7/14/2023",
+    "Quantity": 6,
+    "Unit_Price": 271.59,
+    "Sales_Target": 1802.55,
+    "Employee_ID": "emp12",
+    "Customer_ID": "CUST039",
+    "Total_Sales": 1629.54
+  },
+  {
+    "Sale_ID": 5,
+    "Product_ID": "P003",
+    "Product": "Smartphone",
+    "Region": "West",
+    "Sale_Date": "6/13/2025",
+    "Quantity": 8,
+    "Unit_Price": 343.73,
+    "Sales_Target": 2859.48,
+    "Employee_ID": "emp12",
+    "Customer_ID": "CUST070",
+    "Total_Sales": 2749.84
+  }
+]
